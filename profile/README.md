@@ -42,9 +42,6 @@ Full documentation website including specification, governance, examples, crossw
 ➡️ https://github.com/Benefit-Plan-Standard/benefit-plan-docs  
 📘 Live site: https://benefitplanstandard.org
 
-### 🔹 **healthplanapi-site** *(Private / In Development)*  
-Frontend for the upcoming **HealthPlanAPI.com** commercial ingestion + analytics platform.
-
 ---
 
 ## 🎯 Mission
