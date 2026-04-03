@@ -1,7 +1,11 @@
-# 🏛️ Benefit Plan Standard  
-### An open, vendor-neutral data standard for normalizing and exchanging U.S. health insurance benefit plan information.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Benefit-Plan-Standard/.github/main/profile/logo.png" alt="Benefit Plan Standard" width="120" />
+</p>
 
-<p align="left">
+<h1 align="center">Benefit Plan Standard</h1>
+<h3 align="center">An open, vendor-neutral data standard for normalizing and exchanging U.S. health insurance benefit plan information.</h3>
+
+<p align="center">
   <a href="https://benefitplanstandard.org">
     <img src="https://img.shields.io/badge/Documentation-Live-blue?style=flat-square" />
   </a>
